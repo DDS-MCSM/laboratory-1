@@ -1,6 +1,6 @@
 # Data Driven Security - MCSM
 
-## Laboratory 2
+## Laboratory 1
 
 An introductory session to the R packages, the basic tools to create new ones and the development cycle, and XML files parsing.
 

@@ -1,7 +1,7 @@
 ---
-title: "Laboratory 2"
+title: "Laboratory 1"
 author: "Data Driven Security"
-date: "Fall 2018"
+date: "Fall 2019"
 output:
   html_document:
     toc: yes
@@ -20,13 +20,11 @@ knitr::opts_chunk$set(fig.align = 'center')
 
 ## About the laboratory
 
-This second laboratory assumes that the first laboratory has been entirely completed. Thus, most of the work will be done using the tools seen in the first one.
-
-In case the first is not completed, it is encouraged for you to first complete the previous one, ask any doubts that may arise, and then, complete this one.
+This second laboratory assumes certain familiarity with R language. If it its not the case, please complete proposed tutorials prior to work on this laboratory.
 
 ### Submit laboratory
 
-In order to complete this laboratory, it will be necessary to fill the `answers_lab2.Rmd` R Markdown file with the answers to the different statements included in this file.
+In order to complete this laboratory, it will be necessary to fill the `answers_lab1.Rmd` R Markdown file with the answers to the different statements included in this file.
 
 
 # R Packages
