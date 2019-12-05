@@ -1,6 +1,6 @@
 #******************************************************************************#
 #                                                                              #
-#                          Lab 2 - CPE Standard                                #
+#                          Lab 1 - CPE Standard                                #
 #                                                                              #
 #              Arnau Sangra Rocamora - Data Driven Securty                     #
 #                                                                              #
